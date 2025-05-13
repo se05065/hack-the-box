@@ -38,3 +38,6 @@ A6: directory
 
 Q7: What is the HTTP response code is given for 'Not Found' errors?  
 A7: 404
+
+Q8: Gobuster is one tool used to brute force directories on a webserver. What switch do we use with Gobuster to specify we're looking to discover directories, and not subdomains? 
+A8: 
